@@ -3,10 +3,10 @@
 ## Tour
 
 ### Description
-tour.description = Cafeteria e Chocolataria em Goiãnia
+tour.description = Cafeteria e Chocolataria em Goiânia
 
 ### Title
-tour.name = Lugano Goiãnia Bueno
+tour.name = Lugano Goiânia Bueno
 
 ## Skin
 
