@@ -3,9 +3,10 @@
 ## Tour
 
 ### Description
+tour.description = Cafeteria e Chocolataria em Goiãnia
 
 ### Title
-tour.name = Sem Título 19
+tour.name = Lugano Goiãnia Bueno
 
 ## Skin
 
@@ -23,6 +24,8 @@ panorama_C66587C0_CC4B_52FE_4198_2969BC3A8B28.label = 4
 panorama_C665A617_CC4B_5582_41E5_594BD0D3595C.label = 5
 panorama_C6674C1D_CC4A_D586_41E7_5D7B179A7B07.label = 2
 panorama_C7554B26_CC49_5382_41D3_39637E1FB9B2.label = 1
+video_DA0BD910_CCBE_BF9F_41D6_478242E9B8E0.label = Video 4
+video_DA0C1586_CCBB_5682_41E0_50550CECDE58.label = IMG_7040
 
 ## Action
 
