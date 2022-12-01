@@ -1,0 +1,35 @@
+#: locale=pt
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Sem Título 19
+
+## Skin
+
+### Button
+Button_E60B8634_FB49_1501_41D3_1EB9128CFA11.label = ENTRADA
+Button_E60B8634_FB49_1501_41D3_1EB9128CFA11_mobile.label = ENTRADA
+Button_E682BE0D_FB49_3503_41EA_3D7E1FA6BA1B.label = SALÃO
+Button_E682BE0D_FB49_3503_41EA_3D7E1FA6BA1B_mobile.label = SALÃO
+
+## Media
+
+### Title
+panorama_C664797A_CC4A_DF82_41B5_F408FD574D7F.label = 3
+panorama_C66587C0_CC4B_52FE_4198_2969BC3A8B28.label = 4
+panorama_C665A617_CC4B_5582_41E5_594BD0D3595C.label = 5
+panorama_C6674C1D_CC4A_D586_41E7_5D7B179A7B07.label = 2
+panorama_C7554B26_CC49_5382_41D3_39637E1FB9B2.label = 1
+
+## Action
+
+### URL
+LinkBehaviour_317793E5_223C_90B2_416B_D4255598045A.source = https://wa.link/ars579
+LinkBehaviour_318F3AF8_2233_9092_419E_5A3E6AE0064D.source = https://goo.gl/maps/HYFhuCeqH8bG1VUy8
+LinkBehaviour_367B7674_223C_9391_41AA_5D76E73215A5.source = https://www.instagram.com/chocolatelugano.goianiabueno
+LinkBehaviour_DDC8B90E_CC46_DF82_41B7_D47A530F4972.source = https://goo.gl/maps/HYFhuCeqH8bG1VUy8
+LinkBehaviour_DDC8F90E_CC46_DF82_41E7_4F35BE5E8DE0.source = https://www.instagram.com/chocolatelugano.goianiabueno/?igshid=YmMyMTA2M2Y%3D
+LinkBehaviour_DDCB390C_CC46_DF86_419C_8AB08834920F.source = https://wa.link/ars579
